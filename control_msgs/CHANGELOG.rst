@@ -2,8 +2,8 @@
 Changelog for package control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+6.10.0 (2026-07-01)
+-------------------
 * Add JointCommand.msg as semantic alternative to Float64MultiArray (`#304 <https://github.com/ros-controls/control_msgs/issues/304>`_)
 * Contributors: Shahazad Abdulla
 
